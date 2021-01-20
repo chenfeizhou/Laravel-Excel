@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "chenfeizhou/excel",
   "description": "Supercharged Excel exports and imports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -22,7 +22,7 @@
   "require": {
     "ext-json": "*",
     "php": "^7.0|^8.0",
-    "phpoffice/phpspreadsheet": "^1.16",
+    "chenfeizhou/phpspreadsheet": "^1.150",
     "illuminate/support": "5.8.*|^6.0|^7.0|^8.0"
   },
   "require-dev": {
